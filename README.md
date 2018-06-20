@@ -9,3 +9,6 @@ To install the package use:
 install.packages('devtools')
 devtools::install_github('fawda123/rStrava')
 ```
+
+![](api_logo_pwrdBy_strava_horiz_light.png)
+
